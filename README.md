@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently creating projects in **React, WordPress, Python and more!**
 
-- 👨‍💻 All of my projects are available on [my Portfolio](https://connorpportfolio.com/projects/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://connorpportfolio.com/projects/) or GitHub.
 
-- 💬 Ask me about **Web Development, Python, and Data Analysis!**
+- 💬 Ask me about **Web Development, Python, and Data Analysis.**
 
-- 📫 Reach me at **connorpaps@gmail.com**
+- 📫 Reach me at **connorpaps@gmail.com** for work.
 
-- 📄 View my resume [here](https://connorpportfolio.com/wp-content/uploads/2023/09/ConnorPResumeRev.pdf)
+- 📄 View my [resume](https://connorpportfolio.com/wp-content/uploads/2023/09/ConnorPResumeRev.pdf) for more information.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
